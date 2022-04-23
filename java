@@ -11,3 +11,8 @@ git add origin
 git remote -v
 git push origin master
 git pull origin master 
+
+git tag
+git tag -d
+git push --tag origin
+
